@@ -1,5 +1,5 @@
 ---
-name: speak
+name: spoken-summary
 description: "用自然口语和金字塔结构讲清答案, 适用于口语化回答, 长文改写及相关追问, 可与其他工作技能配合"
 ---
 

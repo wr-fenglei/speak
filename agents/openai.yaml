@@ -1,6 +1,6 @@
 interface:
-  display_name: "口语化"
+  display_name: "口语化总结"
   short_description: "先说答案和重点, 再按需要展开, 用日常说话的方式把意思讲清楚"
-  default_prompt: "使用 $speak 回答当前问题或改写这段内容, 先说答案和重点, 用自然口语展开必要解释, 保留关键事实和适量排版"
+  default_prompt: "使用 $spoken-summary 回答当前问题或改写这段内容, 先说答案和重点, 用自然口语展开必要解释, 保留关键事实和适量排版"
 policy:
   allow_implicit_invocation: true
